@@ -16,8 +16,9 @@ public class Welocme {
      A passionate backend developer from Poland
  <p align="left">👩🏼‍💻 CS student based in Cracow</p>
 
-  _🌱 I’m currently learning **Java, Python and Spring_
-
+  _🌱 I’m currently learning_
+**  Java, Python and Spring
+**
 <hr>
 
 <h2 align="center">
