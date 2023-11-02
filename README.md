@@ -16,7 +16,7 @@ public class Welcome {
       A passionate backend developer from Poland</p>
  <p align="left">👩🏼‍💻 CS student based in Cracow</p>
 
-  _🌱 I’m currently learning: Java, Python and Spring_
+  _🌱 I’m currently learning: Java, Spring
 
 
 
